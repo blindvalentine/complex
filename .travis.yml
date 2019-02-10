@@ -19,5 +19,5 @@ after_success:
   - docker push blindvalentine/complex-client
   - docker push blindvalentine/complex-nginx
   - docker push blindvalentine/complex-api
-  - docker pushblindvalentine/complex-worker
+  - docker push blindvalentine/complex-worker
 
